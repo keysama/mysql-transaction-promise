@@ -1,0 +1,27 @@
+{
+  "name": "mysql-transaction",
+  "version": "1.0.0",
+  "description": "A simple module can help you use promise to complete the creation and rollback of MySQL transactions.",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keysama/mysql-transaction.git"
+  },
+  "keywords": [
+    "mysql",
+    "mysql-transaction"
+  ],
+  "author": "keysama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keysama/mysql-transaction/issues"
+  },
+  "homepage": "https://github.com/keysama/mysql-transaction#readme"
+}
